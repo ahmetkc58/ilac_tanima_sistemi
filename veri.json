@@ -1,0 +1,106 @@
+[
+  {
+    "isim": "Dolorex",
+    "kullanim": "Ağrı kesici, ateş düşürücü ve iltihap giderici (antienflamatuar). Başağrısı, diş ağrısı, kas ağrıları, menstrüel ağrılar ve ateş tedavisinde kullanılır.",
+    "yan_etkiler": ["Mide bulantısı", "Kusma", "Karın ağrısı", "Hazımsızlık", "Baş ağrısı", "Baş dönmesi"],
+    "dozu": "Günde 3-4 kez 400-600mg",
+    "uyarilar": ["Mide rahatsızlığı olanlar uyarılı kullanmalı", "Karaciğer-böbrek hastalarına uygun değildir", "Hamile ve emziren kadınlar doktor kontrolünde kullanmalı"],
+    "sinif": "NSAİİ (Non-Steroidal Anti-inflammatory Drug)"
+  },
+  {
+    "isim": "Deloday",
+    "kullanim": "Alerjik rinit (saman nezlesi) ve ürtiker (kurdeşen) belirtilerini gideren antihistaminik. Alerjik taş kaşıntısı, burunda kaşıntı ve akıntı tedavisinde etkilidir.",
+    "yan_etkiler": ["Baş ağrısı", "Ağız kuruluğu", "Yorgunluk", "Uykululuk hali", "Uyuşukluk"],
+    "dozu": "Günde 1-2 kez 5mg",
+    "uyarilar": ["Araç kullanırken dikkatli olunmalı", "Uyku apnesi olanlar kullanmamalı", "Glaucoma hastalarına dikkat gerekli"],
+    "sinif": "Antihistaminik"
+  },
+  {
+    "isim": "Parol",
+    "kullanim": "Ağrı kesici ve ateş düşürücü. Hafif ve orta dereceli ağrılarda, nezle, grip ve diş ağrılarında kullanılır.",
+    "yan_etkiler": ["Aşırı duyarlılık reaksiyonları (nadir)", "Cilt döküntüsü", "Karaciğer hasarı (yüksek dozda)", "Bulantı (nadir)"],
+    "dozu": "Günde 3-4 kez 325-650mg",
+    "uyarilar": ["Karaciğer hastalığı olanlar dikkatli kullanmalı", "Kronik alkol kullanıcılarında dikkat", "Hamilelikte güvenli"],
+    "sinif": "Parasetamol / Analjezik"
+  },
+  {
+    "isim": "Coldaway C",
+    "kullanim": "Soğuk algınlığı, grip ve nezle semptomlarını (ateş, burun akıntısı, tıkanıklık, vücut ağrısı) hafifletici. Multikomponent formula ile etkili tedavi sağlar.",
+    "yan_etkiler": ["Uykululuk", "Baş dönmesi", "Ağız kuruluğu", "Kalp çarpıntısı", "Sinirlilik", "Kaygı"],
+    "dozu": "Günde 1-2 kez 1 tablet",
+    "uyarilar": ["Araç kullanırken dikkatli olunmalı", "Yüksek tansiyon hastalarında dikkat gerekli", "Hamilelik ve emzirmede doktor onayı gerekli"],
+    "sinif": "Soğuk Algınlığı Preparatı (Kombinasyon)"
+  },
+  {
+    "isim": "Narisat",
+    "kullanim": "Alerjik rinit (burun kaşıntısı, akıntısı) tedavisinde kullanılan nazal sprey. Burun dekongestanı ve antihistaminik işlevi görmektedir.",
+    "yan_etkiler": ["Burun kuruluğu", "Burun kanaması", "Tahriş hissi", "Hapşırık artışı (geçici)"],
+    "dozu": "Günde 1-2 kez burun spreyi 2 sprey/nosril",
+    "uyarilar": ["Uzun süreli kullanım yapılmamalı (7 gün üzeri)", "Rebound konjesyon riski", "Burun polipü olanlar dikkat kullanmalı"],
+    "sinif": "Burun Spreyi / Dekongestan"
+  },
+  {
+    "isim": "Majezik",
+    "kullanim": "Şiddetli ağrı, iltihap ve ateşin düşürülmesinde kullanılan non-steroid antienflamatuar ilaç (NSAİİ). Reumatoid artrit ve diğer iltihabi hastalıklarda da kullanılır.",
+    "yan_etkiler": ["Mide rahatsızlığı", "Bulantı", "Kusma", "Karın ağrısı", "Baş dönmesi", "Cilt döküntüsü"],
+    "dozu": "Günde 2-3 kez 400-600mg",
+    "uyarilar": ["Mide ülseri olanlar dikkatli kullanmalı", "Karaciğer-böbrek hastalığı olanlar uyarılı kullanmalı", "Hamilelik 3. trimesterde kontrendike"],
+    "sinif": "NSAİİ (Ağrı Kesici)"
+  },
+  {
+    "isim": "Azenose",
+    "kullanim": "Alerjik rinit tedavisinde kullanılan kortizonlu burun spreyi. Burun kaşıntısı, akıntısı ve tıkanıklığı azaltır.",
+    "yan_etkiler": ["Burun kanaması", "Burun kuruluğu veya tahrişi", "Baş ağrısı", "Hapşırık (geçici)", "Boğaz tahriş hissi"],
+    "dozu": "Günde 1-2 kez burun spreyi 2 sprey/nosril",
+    "uyarilar": ["Burun enfeksiyonu varsa dikkat gerekli", "Uzun süreli kullanım doktor kontrolünde yapılmalı", "Çocuklarda dikkatli kullanılmalı"],
+    "sinif": "Burun Spreyi / Kortikosteroid"
+  },
+  {
+    "isim": "Beklomil",
+    "kullanim": "Astım ve KOAH gibi solunum yolu hastalıklarının tedavisinde kullanılan inhaler (solunum yoluyla alınan kortikosteroid). Iltihab azaltır ve solunum açıklığını sağlar.",
+    "yan_etkiler": ["Boğaz ağrısı", "Ses kısıklığı", "Ağızda mantar enfeksiyonu (kullanımdan sonra gargara yapılmazsa)", "Öksürük"],
+    "dozu": "Günde 2 kez 1-2 doz inhalasyon",
+    "uyarilar": ["Her kullanımdan sonra ağız yıkanmalı", "Aktif tüberküloz ve diğer bulaşıcı hastalık varsa dikkat gerekli", "Kan basıncı kontrol edilmeli"],
+    "sinif": "İnhaler Kortikosteroid"
+  },
+  {
+    "isim": "Tantum Verde",
+    "kullanim": "Boğaz ve ağız iltihapları, ağız içi yaralar ve ağrıların giderilmesinde kullanılan sprey/gargara. Ağız enfeksiyonlarında destek tedavisidir.",
+    "yan_etkiler": ["Ağızda uyuşukluk hissi", "Hafif yanma", "Tat değişikliği", "Alerjik reaksiyonlar (nadir)"],
+    "dozu": "Günde 3-6 kez 1-2 sprey veya gargara",
+    "uyarilar": ["Kapsül açılmamalı, sadece sprey/gargara kullanılmalı", "Göz temasından kaçınılmalı", "Çocuklarda ebeveyn gözetiminde kullanılmalı"],
+    "sinif": "Boğaz Dezenfektanı / Ağız Solüsyonu"
+  },
+  {
+    "isim": "Fardoben",
+    "kullanim": "Boğaz enfeksiyonları ve ağrıları için kullanılan pastil veya sprey. Boğaz kaşıntısı, ağrısı ve iltihap tedavisinde etkilidir.",
+    "yan_etkiler": ["Tahriş", "Alerjik reaksiyonlar (nadir)", "Ağız kuruluğu", "Tat bozukluğu"],
+    "dozu": "Günde 3-6 kez 1 pastil veya 1-2 sprey",
+    "uyarilar": ["Kortizon içerir, uzun süreli kullanım yapılmamalı", "Hamile ve emzirmede doktor konsultasyonu gerekli", "Çocuklarda yaş sınırı kontrol edilmeli"],
+    "sinif": "Boğaz Pastili / Dezenfektanı"
+  },
+  {
+    "isim": "Aksef",
+    "kullanim": "Çeşitli bakteriyel enfeksiyonların tedavisinde kullanılan geniş spektrumlu antibiyotik. Solunum yolu, idrar yolu ve deri enfeksiyonlarında etkilidir.",
+    "yan_etkiler": ["İshal", "Mide bulantısı", "Karın ağrısı", "Alerjik reaksiyonlar", "Difteri riski", "C. difficile enfeksiyonu (nadir)"],
+    "dozu": "Günde 2-4 kez 250-500mg",
+    "uyarilar": ["Penisilin alerjisi olanlar dikkat kullanmalı (çapraz reaksiyon riski)", "Tüm reçete bitene kadar kullanılmalı", "Hamilelik/emzirmede doktor onayı gerekli"],
+    "sinif": "Antibiyotik (Sefalosporin)"
+  },
+  {
+    "isim": "Buscopan",
+    "kullanim": "Mide, bağırsak ve idrar yollarındaki spazmları (kasılmaları) çözerek ağrıyı azaltıcı. Epigastrik ağrılar ve kramp ağrısında etkilidir.",
+    "yan_etkiler": ["Ağız kuruluğu", "Baş dönmesi", "Kalp atım hızında artış (taşikardi)", "Göz basıncı artışı", "İdrar zorluğu"],
+    "dozu": "Günde 3 kez 10mg veya sprey olarak",
+    "uyarilar": ["Glaucoma olanlar dikkat kullanmalı", "Kalp aritmisi olanlar doktor kontrolünde kullanmalı", "İdrar akışı güçlüğü olanlar dikkat kullanmalı"],
+    "sinif": "Antispasmodik / Antispazmodik"
+  },
+  {
+    "isim": "Erdobil",
+    "kullanim": "Akut ve kronik bronşit gibi solunum yolu hastalıklarında balgam söktürücü (mukolitik). Solunum yollarında tıkanıklık ve öksürük tedavisinde kullanılır.",
+    "yan_etkiler": ["Mide bulantısı", "Kusma", "Baş ağrısı", "Alerjik reaksiyonlar", "Bulantı"],
+    "dozu": "Günde 3 kez 250-500mg veya şurup 15ml",
+    "uyarilar": ["Hamilelik 1. trimesterde dikkat gerekli", "Akut miokard enfarktüsü sonrası dikkat kullanılmalı", "Mide ülseri olanlar dikkatli kullanmalı"],
+    "sinif": "Mukolitik / Öksürük Bastırıcı"
+  }
+]
