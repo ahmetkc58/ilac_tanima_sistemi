@@ -1,42 +1,10 @@
-"""
-İlaç Tanıma Sistemi - Gereksinimler
-YOLO11 + Gemini AI OCR + Streamlit
-Güncellenme: 16 Aralık 2025
-"""
+# İlaç Tanıma Asistanı - Python bağımlılıkları
 
-# === ZORUNLU PAKETLER ===
+# --- Bu depodaki örneği çalıştırmak için yeterli (tahmin_ornek.py) ---
+ultralytics>=8.0.0        # YOLO11 (PyTorch ve OpenCV'yi de getirir)
 
-# Web Framework
-streamlit>=1.31.0
-
-# YOLO ve Deep Learning
-ultralytics>=8.0.0
-torch>=2.0.0
-torchvision>=0.15.0
-
-# Computer Vision
-opencv-python>=4.8.0
-Pillow>=10.0.0
-numpy>=1.24.0
-
-# OCR - Gemini AI (Primary)
+# --- Tam sistem (Flask API + Gemini OCR) için ek paketler ---
+flask>=3.0.0
 google-generativeai>=0.3.0
 python-dotenv>=1.0.0
-
-# === OPSIYONEL OCR PAKETLERI ===
-# Not: Sadece karşılaştırma için gerekli, ana sistem Gemini AI kullanır
-
-# Tesseract OCR
-# pytesseract>=0.3.10
-# Not: Binary kurulum gerekir: https://github.com/UB-Mannheim/tesseract/wiki
-
-# PaddleOCR (Çince/Asya dilleri için)
-# paddleocr>=2.6.0
-# paddlepaddle>=2.5.0
-
-# EasyOCR (Çok dilli destek)
-# easyocr>=1.7.0
-
-# === GELİŞTİRME ARAÇLARI ===
-# pandas  # Veri analizi için
-# matplotlib  # Görselleştirme için
+Pillow>=10.0.0
